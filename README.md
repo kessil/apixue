@@ -1,3 +1,4 @@
 # ApiXue
 API for AutoXue
-采用Glang Gin实现
+
+采用Golang Gin实现
